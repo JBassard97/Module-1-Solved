@@ -2,7 +2,7 @@
 ## Description
 This repository contains the refactored code from Module 01's weekly challenge. 
 ## What to Expect
-The purpose of this challenge is to make a splash page more accessible for sreen reading technologies. 
+The purpose of this challenge is to make a splash page more accessible for screen reading technologies. 
 I have done this by changing out generic HTML elements for semantic elements, such as section, article, and aside.
 In addition, all image elements have been linked directly to the HTML file and given a descriptive alt text.
 ## Final Product Screenshots
